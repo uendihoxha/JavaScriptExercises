@@ -1,4 +1,4 @@
-Exercise 1 
+EXERCISE 1 
 
 (Printing Dates in Various Formats) Dates are printed in several common formats. Write
 a script that reads a date from an HTML5 form and creates a Date object in which to store it. Then
