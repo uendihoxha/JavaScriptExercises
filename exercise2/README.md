@@ -1,4 +1,4 @@
-Exercise 2
+EXERCISE 2
 
 Write a script to simulate the rolling of two dice. The script should use Math.random to roll
 the first die and again to roll the second die. The sum of the two values should then be calculated.
